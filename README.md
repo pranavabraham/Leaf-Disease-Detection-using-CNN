@@ -21,7 +21,8 @@ TensorFlow (with Keras)
 scikit-learn
 Google Colab (optional, but code is written assuming this environment)
 
-How to Run
+How to Run:
+
 1)Clone the Repository:
   git clone https://your-github-repository-url.git
 
